@@ -13,7 +13,7 @@ the problem is i need to create a data set that includes a row of numbers of hou
 How does your project work? the project is to build a data of muiltple rows of data that includes how many hours a student has slept and how many hours they had spent on studying, the goal is to be able to build a clear and accurate data set for the AI to then use that data to result in a prediction of how many hours slept and studied will it take to achieve a higher score on a test, while also giving it its average
 
 ## Tools
-in person help from instructor, Poe AI explaination.
+in person help from instructor such as asking questions to ensure what needs to be done, and Poe AI to give a more clear and simple explaination of the instructions.
 
 ## Results
 What worked? the data set was able to be clear and accurate enough for the AI to come with the solution. the AI stated "The AI predicted a test score of 87.38632395732299 for a student who studied 6 hours and slept 8 hours."
